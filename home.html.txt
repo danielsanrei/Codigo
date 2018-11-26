@@ -1,0 +1,16 @@
+<html>
+	<head> 
+		<title> website teste </title>
+</head>
+
+<body>
+
+HOME | FASHION | LIFESTYLE | TRAVEL | FOOD
+
+</body>
+
+
+
+
+
+</html>
